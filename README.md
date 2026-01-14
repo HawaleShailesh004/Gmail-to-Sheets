@@ -10,6 +10,11 @@ The system is designed with **idempotency** in mind, ensuring that no email is d
 
 ---
 
+## Video Demonstration
+**Watch the full explanation and demo here:**
+[▶️ Click to Watch Video](https://www.loom.com/share/712bb309f46c48ac96216becf7951833)
+
+---
 ## 🏗️ High-Level Architecture
 
 The system follows a linear ETL (Extract, Transform, Load) pipeline:
